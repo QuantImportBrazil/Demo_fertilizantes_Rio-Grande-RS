@@ -19,7 +19,7 @@
 ---  
   
   
-![Gráfico de Previsão](3104.png) 
+![Gráfico de Previsão](Rio%20Grande_Potássicos.png) 
   
 ---
 
