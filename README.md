@@ -20,6 +20,7 @@
   
   
 ![Gráfico de Previsão](Rio%20Grande_Potássicos.png) 
+<sub>Previsto* - Tamanho do X corresponde à probabilidade da importação ocorrer</sub>
   
 ---
 
